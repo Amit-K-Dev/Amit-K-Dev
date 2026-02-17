@@ -27,9 +27,9 @@ Currently learning by building real-world projects using SQL, Python, and JavaSc
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amit-K-Dev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-k-dev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-K-Dev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-k-dev&layout=compact&theme=tokyonight)
 
 ---
 
