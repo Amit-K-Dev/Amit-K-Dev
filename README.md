@@ -42,6 +42,7 @@ Currently learning by building real-world projects using SQL, Python, and JavaSc
   Accounting & Finance  
   Developed analytical thinking through financial reporting and business analysis
 
+
 ---
 
 ## 🧠 Current Focus
