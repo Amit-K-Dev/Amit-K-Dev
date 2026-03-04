@@ -1,3 +1,9 @@
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Amit-K-Dev&style=for-the-badge"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
 
@@ -11,11 +17,14 @@ Turning raw data into actionable insights through analytics and dashboards.
 
 ---
 
-# Tech Stack
+# 🚀 Tech Stack
 
+### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Data Analytics
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -23,24 +32,51 @@ Turning raw data into actionable insights through analytics and dashboards.
 
 # 📂 Featured Projects
 
-## SQL Sales Analysis
-Analyze sales performance using SQL queries and business insights.
+## SQL Business Insights Project – Sales Dataset
 
-[![SQL Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=SQL-Business-Insights-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/SQL-Business-Insights-Project)
+![SQL Business Insights](https://raw.githubusercontent.com/Amit-K-Dev/SQL-Business-Insights-Project/main/screenshots/product_ranking.png)
+
+Analyze sales data using SQL to extract business insights such as:
+
+- Product ranking by revenue
+- Sales trends
+- Customer purchasing behavior
+
+🔗 Project Link  
+https://github.com/Amit-K-Dev/SQL-Business-Insights-Project
 
 ---
 
-## Executive Sales Dashboard
-Built an Excel dashboard to analyze conversion rates and marketing performance.
+## Executive Sales Performance Dashboard (Excel)
 
-[![Executive Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Executive-Sales-Dashboard-Excel&theme=tokyonight)](https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel)
+![Executive Sales Dashboard](https://raw.githubusercontent.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel/main/dashboard_screenshot.png)
+
+Interactive Excel dashboard designed to track:
+
+- Revenue performance
+- Sales trends
+- Regional performance
+- Key business KPIs
+
+🔗 Project Link  
+https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel
 
 ---
 
 ## Sales Data Analysis Project (Excel + SQL)
-Interactive dashboard to track business KPIs and sales performance.
 
-[![Sales Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Sales-Data-Analysis-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project)
+![Sales Data Analysis Dashboard](https://raw.githubusercontent.com/Amit-K-Dev/Sales-Data-Analysis-Project/master/dashboard.png)
+
+End-to-end sales analysis combining Excel dashboards with SQL insights.
+
+Includes:
+
+- KPI tracking
+- Sales performance metrics
+- Business insights from data
+
+🔗 Project Link  
+https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project
 
 ---
 
@@ -69,6 +105,7 @@ Interactive dashboard to track business KPIs and sales performance.
 # 🎓 Academic Background
 
 ### CA Intermediate (Pursuing)
+
 Strong foundation in:
 
 - Financial Accounting  
@@ -107,9 +144,12 @@ I believe in:
 
 ---
 
-📍 Documenting my learning journey and building projects step by step.
-
 # 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/amit-k-dev/  
 Email: kumar.amit2648@gmail.com
+
+---
+
+📍 Documenting my learning journey and building projects step by step.
+
