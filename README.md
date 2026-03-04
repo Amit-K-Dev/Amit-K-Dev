@@ -31,10 +31,10 @@ Analyze sales performance using SQL queries and business insights.
 
 ---
 
-## Excel Marketing Funnel Dashboard
+## Executive Sales Dashboard
 Built an Excel dashboard to analyze conversion rates and marketing performance.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Excel-Marketing-Funnel-Dashboard&theme=tokyonight)](https://github.com/Amit-K-Dev/Excel-Marketing-Funnel-Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Executive-Sales-Dashboard-Excel&theme=tokyonight)](https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel)
 
 ---
 
