@@ -11,7 +11,7 @@ Turning raw data into actionable insights through analytics and dashboards.
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -118,7 +118,7 @@ Focused on:
 
 ---
 
-# 🧠 Current Focus
+# Current Focus
 
 - Writing clean and efficient SQL queries  
 - Building structured data analysis projects  
@@ -127,7 +127,7 @@ Focused on:
 
 ---
 
-# 🚀 Approach
+# Approach
 
 I believe in:
 
