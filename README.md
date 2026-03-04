@@ -38,10 +38,10 @@ Built an Excel dashboard to analyze conversion rates and marketing performance.
 
 ---
 
-## Power BI Business Dashboard
+## Sales Data Analysis Project (Excel + SQL)
 Interactive dashboard to track business KPIs and sales performance.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=PowerBI-Business-Dashboard&theme=tokyonight)](https://github.com/Amit-K-Dev/PowerBI-Business-Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Sales-Data-Analysis-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project)
 
 ---
 
