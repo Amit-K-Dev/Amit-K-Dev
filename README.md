@@ -9,8 +9,6 @@ Turning raw data into actionable insights through analytics and dashboards.
 <img src="https://komarev.com/ghpvc/?username=Amit-K-Dev&style=for-the-badge"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amit-K-Dev&style=for-the-badge)
-
 ---
 
 # 🚀 Tech Stack
