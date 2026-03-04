@@ -1,9 +1,3 @@
-
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amit-K-Dev&style=for-the-badge"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
 
