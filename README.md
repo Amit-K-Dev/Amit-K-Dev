@@ -27,7 +27,7 @@ Currently building real-world projects to strengthen my skills in **data analyti
 ## SQL Sales Analysis
 Analyze sales performance using SQL queries and business insights.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=SQL-Sales-Analysis&theme=tokyonight)](https://github.com/Amit-K-Dev/SQL-Sales-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=SQL-Business-Insights-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/SQL-Business-Insights-Project)
 
 ---
 
