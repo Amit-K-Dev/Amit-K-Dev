@@ -1,6 +1,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Amit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Building+Data+Analytics+Projects" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
