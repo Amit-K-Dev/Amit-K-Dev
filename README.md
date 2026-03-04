@@ -24,53 +24,81 @@ Turning raw data into actionable insights through analytics and dashboards.
 
 ---
 
-# 📂 Featured Projects
+<p align="center">
+📊 A selection of my data analytics projects and dashboards
+</p>
 
-## SQL Business Insights Project – Sales Dataset
+# 📂 Portfolio Projects
 
-![SQL Business Insights](https://raw.githubusercontent.com/Amit-K-Dev/SQL-Business-Insights-Project/main/screenshots/product_ranking.png)
+<table>
+<tr>
 
-Analyze sales data using SQL to extract business insights such as:
+<td width="50%">
+<h3>SQL Business Insights Project</h3>
 
-- Product ranking by revenue
+<a href="https://github.com/Amit-K-Dev/SQL-Business-Insights-Project">
+<img src="https://raw.githubusercontent.com/Amit-K-Dev/SQL-Business-Insights-Project/main/screenshots/product_ranking.png" width="100%">
+</a>
+
+Analyze sales data using SQL to uncover:
+- Product revenue ranking
 - Sales trends
-- Customer purchasing behavior
+- Customer purchasing patterns
 
-🔗 Project Link  
-https://github.com/Amit-K-Dev/SQL-Business-Insights-Project
+<a href="https://github.com/Amit-K-Dev/SQL-Business-Insights-Project">View Project →</a>
 
----
+</td>
 
-## Executive Sales Performance Dashboard (Excel)
+<td width="50%">
+<h3>Executive Sales Dashboard (Excel)</h3>
 
-![Executive Sales Dashboard](https://raw.githubusercontent.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel/main/dashboard_screenshot.png)
+<a href="https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel">
+<img src="https://raw.githubusercontent.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel/main/dashboard_screenshot.png" width="100%">
+</a>
 
-Interactive Excel dashboard designed to track:
-
-- Revenue performance
-- Sales trends
+Interactive Excel dashboard showing:
+- Revenue KPIs
 - Regional performance
-- Key business KPIs
+- Sales trends
 
-🔗 Project Link  
-https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel
+<a href="https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel">View Project →</a>
 
----
+</td>
 
-## Sales Data Analysis Project (Excel + SQL)
+</tr>
 
-![Sales Data Analysis Dashboard](https://raw.githubusercontent.com/Amit-K-Dev/Sales-Data-Analysis-Project/master/dashboard.png)
+<tr>
 
-End-to-end sales analysis combining Excel dashboards with SQL insights.
+<td width="50%">
+<h3>Sales Data Analysis (Excel + SQL)</h3>
 
-Includes:
+<a href="https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project">
+<img src="https://raw.githubusercontent.com/Amit-K-Dev/Sales-Data-Analysis-Project/master/dashboard.png" width="100%">
+</a>
 
-- KPI tracking
+Combined SQL and Excel project analyzing:
+- Business KPIs
+- Revenue trends
 - Sales performance metrics
-- Business insights from data
 
-🔗 Project Link  
-https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project
+<a href="https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project">View Project →</a>
+
+</td>
+
+<td width="50%">
+
+<h3>More Projects Coming Soon 🚀</h3>
+
+Building additional projects including:
+
+• Python Data Analysis  
+• Power BI Business Dashboard  
+• Customer Churn Analysis  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
