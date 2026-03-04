@@ -24,11 +24,6 @@ Currently building real-world projects to strengthen my skills in **data analyti
 
 # 📂 Featured Projects
 
-[![SQL Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=SQL-Business-Insights-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/SQL-Business-Insights-Project)
-[![Executive Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Executive-Sales-Dashboard-Excel&theme=tokyonight)](https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel)
-
-[![Sales Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Sales-Data-Analysis-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project)
-
 ## SQL Sales Analysis
 Analyze sales performance using SQL queries and business insights.
 
@@ -46,7 +41,7 @@ Built an Excel dashboard to analyze conversion rates and marketing performance.
 ## Sales Data Analysis Project (Excel + SQL)
 Interactive dashboard to track business KPIs and sales performance.
 
-[![Sales Data Analysis Project](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Sales-Data-Analysis-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project)
+[![Sales Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Sales-Data-Analysis-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project)
 
 ---
 
@@ -114,3 +109,8 @@ I believe in:
 ---
 
 📍 Documenting my learning journey and building projects step by step.
+
+# 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/amit-k-dev/  
+Email: kumar.amit2648@gmail.com
