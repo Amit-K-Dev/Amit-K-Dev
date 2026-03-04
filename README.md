@@ -17,6 +17,12 @@ Turning raw data into meaningful insights through analytics and dashboards.
 
 ---
 
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Amit-K-Dev/Amit-K-Dev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # Tech Stack
 
 ### Programming
