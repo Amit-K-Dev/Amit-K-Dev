@@ -24,24 +24,24 @@ Currently building real-world projects to strengthen my skills in **data analyti
 
 # 📂 Featured Projects
 
-## SQL Sales Analysis
+### SQL Sales Analysis
 Analyze sales performance using SQL queries and business insights.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=SQL-Business-Insights-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/SQL-Business-Insights-Project)
+[![SQL Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=SQL-Business-Insights-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/SQL-Business-Insights-Project)
 
 ---
 
-## Executive Sales Dashboard
+### Executive Sales Dashboard
 Built an Excel dashboard to analyze conversion rates and marketing performance.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Executive-Sales-Dashboard-Excel&theme=tokyonight)](https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel)
+[![Executive Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Executive-Sales-Dashboard-Excel&theme=tokyonight)](https://github.com/Amit-K-Dev/Executive-Sales-Dashboard-Excel)
 
 ---
 
-## Sales Data Analysis Project (Excel + SQL)
+### Sales Data Analysis Project (Excel + SQL)
 Interactive dashboard to track business KPIs and sales performance.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Sales-Data-Analysis-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project)
+[![Sales Data Analysis Project](https://github-readme-stats.vercel.app/api/pin/?username=Amit-K-Dev&repo=Sales-Data-Analysis-Project&theme=tokyonight)](https://github.com/Amit-K-Dev/Sales-Data-Analysis-Project)
 
 ---
 
