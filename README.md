@@ -73,4 +73,18 @@ I believe in:
 
 ---
 
+# Hi, I'm Amit 👋
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Amit-K-Dev&show_icons=true)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-K-Dev&layout=compact)
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=Amit-K-Dev)
+
+---
+
+
 📍 Documenting my learning journey and progress.
