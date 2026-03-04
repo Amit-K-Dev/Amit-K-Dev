@@ -1,9 +1,13 @@
-# Hi 👋, I'm Amit
+<h1 align="center">Hi 👋, I'm Amit</h1>
+<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
 
-### Aspiring Data Analyst | SQL • Python • Power BI • Excel
+<p align="center">
+Turning raw data into actionable insights through analytics and dashboards.
+</p>
 
-I enjoy transforming raw data into meaningful insights and dashboards.  
-Currently building real-world projects to strengthen my skills in **data analytics, programming, and business intelligence**.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Amit-K-Dev&style=for-the-badge"/>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amit-K-Dev&style=for-the-badge)
 
