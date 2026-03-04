@@ -6,10 +6,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
 
 <p align="center">
-Turning raw data into actionable insights through analytics and dashboards.
+Turning raw data into meaningful insights through analytics and dashboards.
 </p>
 
 <p align="center">
