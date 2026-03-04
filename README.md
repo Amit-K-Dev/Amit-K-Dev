@@ -87,7 +87,7 @@ Combined SQL and Excel project analyzing:
 
 <td width="50%">
 
-<h3>More Projects Coming Soon 🚀</h3>
+<h3>More Projects Coming Soon</h3>
 
 Building additional projects including:
 
@@ -109,6 +109,12 @@ Building additional projects including:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-K-Dev&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Amit-K-Dev&theme=tokyonight)
+
+---
+
+# 📊 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/Amit-K-Dev?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&plugin.languages=1&plugin.languages.limit=8&plugin.languages.colors=github&plugin.languages.sections=most-used&plugin.languages.indepth=1&plugin.languages.analysis_timeout=15&plugin.habits=1&plugin.habits.from=200&plugin.habits.days=14&plugin.habits.charts=1&plugin.habits.trim=1&plugin.isocalendar=1)
 
 ---
 
