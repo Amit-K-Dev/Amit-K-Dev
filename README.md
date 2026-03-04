@@ -73,7 +73,6 @@ I believe in:
 
 ---
 
-# Hi, I'm Amit 👋
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Amit-K-Dev&show_icons=true)
