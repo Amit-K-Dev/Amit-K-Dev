@@ -37,7 +37,7 @@ Turning raw data into meaningful insights through analytics and dashboards.
 ---
 
 <p align="center">
-📊 A selection of my data analytics projects and dashboards
+A selection of my data analytics projects and dashboards
 </p>
 
 # 📂 Portfolio Projects
@@ -114,7 +114,7 @@ Building additional projects including:
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amit-K-Dev&show_icons=true&theme=tokyonight)
 
@@ -124,25 +124,25 @@ Building additional projects including:
 
 ---
 
-# 📊 GitHub Metrics
+# GitHub Metrics
 
 ![Metrics](https://metrics.lecoq.io/Amit-K-Dev?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&plugin.languages=1&plugin.languages.limit=8&plugin.languages.colors=github&plugin.languages.sections=most-used&plugin.languages.indepth=1&plugin.languages.analysis_timeout=15&plugin.habits=1&plugin.habits.from=200&plugin.habits.days=14&plugin.habits.charts=1&plugin.habits.trim=1&plugin.isocalendar=1)
 
 ---
 
-# 📊 Contribution Graph
+# Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit-K-Dev&theme=tokyo-night)
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amit-K-Dev&theme=tokyonight)
 
 ---
 
-# 🎓 Academic Background
+# Academic Background
 
 ### CA Intermediate (Pursuing)
 
@@ -184,7 +184,7 @@ I believe in:
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/amit-k-dev/  
 Email: kumar.amit2648@gmail.com
